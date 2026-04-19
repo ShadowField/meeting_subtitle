@@ -1,0 +1,7 @@
+config.ini
+.token_cache.json
+logs/
+.venv/
+__pycache__/
+*.pyc
+pending_ask.txt

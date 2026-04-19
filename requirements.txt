@@ -1,0 +1,11 @@
+# 阿里云 NLS 流式语音识别 SDK
+# 官方包通过 GitHub 安装：
+#   pip install https://github.com/aliyun/alibabacloud-nls-python-sdk/archive/refs/heads/master.zip
+# 或者：
+#   git clone https://github.com/aliyun/alibabacloud-nls-python-sdk
+#   cd alibabacloud-nls-python-sdk && python -m pip install .
+
+aliyun-python-sdk-core>=2.13.0
+soundcard>=0.4.3
+numpy>=1.24
+PySide6>=6.5
